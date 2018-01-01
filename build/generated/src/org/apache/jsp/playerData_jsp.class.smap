@@ -1,0 +1,20 @@
+SMAP
+playerData_jsp.java
+JSP
+*S JSP
+*F
++ 0 playerData.jsp
+playerData.jsp
++ 1 index.html
+index.html
+*L
+5,12:50
+16,8:62
+23,3:70
+26,13:74
+38,2:87
+40,8:90
+47,3:98
+1#1,49:101
+49#0,4:149
+*E
